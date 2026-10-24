@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 248｜Old Travel Journal: paints not everything in a photo but the impression it leaves — the key subject in light ink line and transparent watercolour that spreads naturally with pigment granulation and paused strokes, on textured paper with a rare stamp or collage scrap, in colours brighter and clearer than the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) over plenty of warm white, the subject small, off-centre or cropped, and a line or two of handwritten travel-journal text. It avoids faded sepia or dull muted vintage filters. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-248 or asks for travel-journal, ink-and-watercolour sketchbook illustration from a photo.",
+  "short_description": "旧旅行手记：把看完照片后留下的印象画成淡水彩和轻墨的旅行手记一页",
+  "zh-CN": {
+    "name": "旧旅行手记",
+    "tagline": "不画照片里的全部，只画看过之后留下的印象：轻墨和淡水彩的一页旅行手记。",
+    "look": "只留下能代表这张照片的几条线索，用轻墨线稿和透明水彩画出，水彩自然晕开，留着颜料颗粒和笔触的停顿。颜色比原照更亮、更清透：天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，大片暖白纸作呼吸，一点暖橙或金黄像阳光落在上面。主体可小、可偏、可贴边；印章或拼贴碎片只偶尔出现一两处。配一两行手写感的地名、短句或注释。",
+    "traits": ["旧旅行手记", "淡水彩", "轻墨", "纸张", "不完整叙事", "明亮清透"],
+    "good": [
+      "旅途中的地点：海边小镇、街角咖啡馆、山间小屋、湖边码头",
+      "有阳光和颜色的风景局部：一棵开花的树、一条小船、一扇蓝色的窗",
+      "想做旅行手帐、明信片或游记配图的照片"
+    ],
+    "poor": [
+      "想完整展示整片风景或景点全貌的需求",
+      "想要发黄做旧、暗褐复古滤镜或灰暗低沉色调的效果",
+      "商业旅行海报或满版拼贴的需求"
+    ]
+  },
+  "en": {
+    "name": "Old Travel Journal",
+    "tagline": "Paints the impression your photo leaves, not everything in it: a travel-journal page in ink and watercolour.",
+    "look": "Only a few clues that stand for the photo are kept, drawn in light ink line and transparent watercolour that blooms naturally and keeps its pigment granules and paused strokes. Colours are brighter and clearer than the original: sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink, with plenty of warm white paper to breathe and a touch of warm orange or gold like sunlight. The subject can be small, off-centre or against the edge; a stamp or collage scrap appears only once or twice. A line or two of handwritten-style place names, short phrases or notes go with it.",
+    "traits": ["Old travel journal", "Pale watercolour", "Light ink", "Paper", "Incomplete story", "Bright and clear"],
+    "good": [
+      "Places from a trip: a seaside town, a corner café, a mountain hut, a lakeside jetty",
+      "Sunny, colourful fragments of a view: a tree in bloom, a small boat, a blue window",
+      "Photos you want for a travel journal, postcard or travel story"
+    ],
+    "poor": [
+      "Wanting the full landscape or a complete view of a landmark",
+      "Wanting a yellowed, sepia or dull, gloomy vintage filter",
+      "Commercial travel posters or edge-to-edge collage"
+    ]
+  },
+  "ja": {
+    "name": "古い旅の手帖",
+    "tagline": "写真のすべてではなく、見たあとに残った印象を描きます。淡い墨と水彩の旅の手帖の一ページです。",
+    "look": "写真を代表するいくつかの手がかりだけを残し、淡い墨の線と透明水彩で描きます。水彩は自然ににじみ、顔料の粒や筆の止まりも残ります。色は元の写真より明るく澄んでいます：空色、湖の青緑、若葉の緑、暖かな黄色、コーラルオレンジ、ピーチピンク。温かな白い紙をたっぷり残して呼吸させ、日差しのような暖かいオレンジや金色をひと差し。主役は小さくても、中心からずれても、端に寄ってもかまいません。スタンプやコラージュの切れ端は一、二か所だけ。手書き風の地名や短い言葉、注記を一、二行添えます。",
+    "traits": ["古い旅の手帖", "淡い水彩", "淡い墨", "紙", "語りきらない物語", "明るく澄んだ色"],
+    "good": [
+      "旅先の場所：海辺の町、街角のカフェ、山小屋、湖畔の桟橋",
+      "日差しと色のある風景の一部分：花の咲いた木、小舟、青い窓",
+      "旅の手帳、ポストカード、旅行記の挿絵にしたい写真"
+    ],
+    "poor": [
+      "風景全体や名所の全景を見せたい場合",
+      "黄ばんだセピアや暗く沈んだレトロフィルターを求める場合",
+      "商業的な旅行ポスターや全面コラージュ"
+    ]
+  },
+  "ko": {
+    "name": "오래된 여행 수첩",
+    "tagline": "사진의 전부가 아니라 보고 난 뒤 남은 인상을 그립니다. 옅은 먹과 수채로 된 여행 수첩 한 페이지.",
+    "look": "사진을 대표하는 몇 가지 단서만 남겨 옅은 먹선과 투명 수채로 그립니다. 수채는 자연스럽게 번지고 안료 입자와 붓이 멈춘 자국이 남습니다. 색은 원본보다 밝고 맑습니다: 하늘색, 호수 같은 청록, 연두, 따뜻한 노랑, 코랄 오렌지, 복숭아 분홍. 따뜻한 흰 종이를 넉넉히 남겨 숨을 틔우고, 햇살처럼 따뜻한 주황이나 금빛을 살짝 얹습니다. 주인공은 작거나 치우치거나 가장자리에 붙어도 되고, 도장이나 콜라주 조각은 한두 군데만 나옵니다. 손글씨 느낌의 지명이나 짧은 문장, 메모를 한두 줄 곁들입니다.",
+    "traits": ["오래된 여행 수첩", "옅은 수채", "옅은 먹", "종이", "다 말하지 않는 이야기", "밝고 맑은 색"],
+    "good": [
+      "여행지의 장소: 바닷가 마을, 길모퉁이 카페, 산속 오두막, 호숫가 선착장",
+      "햇살과 색이 있는 풍경의 한 부분: 꽃 핀 나무, 작은 배, 파란 창문",
+      "여행 다이어리, 엽서, 여행기 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "풍경 전체나 명소의 전경을 보여 주고 싶은 경우",
+      "누렇게 바랜 세피아나 어둡고 칙칙한 복고 필터를 원하는 경우",
+      "상업 여행 포스터나 화면을 가득 채운 콜라주"
+    ]
+  },
+  "ar": {
+    "name": "دفتر رحلات قديم",
+    "tagline": "لا يرسم كل ما في صورتك بل الانطباع الذي تتركه: صفحة من دفتر رحلات بحبر خفيف وألوان مائية فاتحة.",
+    "look": "لا يبقى إلا بضع إشارات تمثّل الصورة، تُرسم بخط حبر خفيف وألوان مائية شفافة تنتشر انتشاراً طبيعياً وتحتفظ بحبيبات الصبغة وتوقفات الفرشاة. الألوان أكثر إشراقاً وصفاءً من الأصل: أزرق السماء، أزرق البحيرة المخضر، أخضر غضّ، أصفر دافئ، برتقالي مرجاني، وردي خوخي، مع مساحات كثيرة من الورق الأبيض الدافئ تمنح الصورة متنفساً، ولمسة برتقالية دافئة أو ذهبية كضوء الشمس. قد يكون العنصر صغيراً أو بعيداً عن المركز أو ملاصقاً للحافة، ولا يظهر ختم أو قصاصة كولاج إلا مرة أو مرتين. يرافقه سطر أو سطران بخط يشبه خط اليد: اسم مكان أو عبارة قصيرة أو ملاحظة.",
+    "traits": ["دفتر رحلات قديم", "ألوان مائية فاتحة", "حبر خفيف", "ورق", "حكاية غير مكتملة", "ألوان مشرقة صافية"],
+    "good": [
+      "أماكن من رحلة: بلدة ساحلية، مقهى على ناصية شارع، كوخ جبلي، رصيف على بحيرة",
+      "أجزاء مشمسة وملوّنة من منظر: شجرة مزهرة، قارب صغير، نافذة زرقاء",
+      "صور تريدها لدفتر رحلاتك أو بطاقة بريدية أو قصة سفر"
+    ],
+    "poor": [
+      "الرغبة في عرض المنظر الطبيعي كاملاً أو معلم سياحي بأكمله",
+      "الرغبة في مرشّح قديم مصفرّ أو بنّي داكن أو كئيب باهت",
+      "ملصقات السفر التجارية أو الكولاج الذي يملأ الصفحة"
+    ]
+  }
+}

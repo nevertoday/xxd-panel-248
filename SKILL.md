@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-248
-description: "Create XXD Panel 248 raster artwork: a faithful photograph paired with a vintage travel-journal page of pale watercolor, light ink and paper, keeping an incomplete private memory. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-248 or asks for this 旧旅行手记 style."
+description: "XXD Panel 248｜Old Travel Journal: paints not everything in a photo but the impression it leaves — the key subject in light ink line and transparent watercolour that spreads naturally with pigment granulation and paused strokes, on textured paper with a rare stamp or collage scrap, in colours brighter and clearer than the photo (sky blue, lake teal, fresh green, warm yellow, coral orange, peach pink) over plenty of warm white, the subject small, off-centre or cropped, and a line or two of handwritten travel-journal text. It avoids faded sepia or dull muted vintage filters. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-248 or asks for travel-journal, ink-and-watercolour sketchbook illustration from a photo."
 ---
 
 # XXD Panel 248

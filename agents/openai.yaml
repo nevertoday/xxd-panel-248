@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 248"
-  short_description: "旧旅行手记：上半保留原照，下半收成淡水彩和轻墨的不完整旅行记忆"
-  default_prompt: "Use $xxd-panel-248 to transform my photograph following the complete canonical source brief."
+  short_description: "旧旅行手记：把看完照片后留下的印象画成淡水彩和轻墨的旅行手记一页"
+  default_prompt: "Use $xxd-panel-248 to turn my photo into Old Travel Journal artwork."
